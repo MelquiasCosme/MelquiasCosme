@@ -7,4 +7,5 @@ My name is Melquias Cosme 👨‍💻
 
 ### 🌍 "Run, live, dream and reach." 
 Reach me out 👇🏼
+
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-green?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/melk_cosme)](https://www.instagram.com/melk_cosme/)
